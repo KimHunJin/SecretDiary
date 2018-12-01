@@ -16,6 +16,8 @@ import kotlinx.android.synthetic.main.activity_main.*
 // 키로 키 암호화
 // 암호화 된 키로 글 복호화
 
+// 시크릿 키로 검색
+
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
